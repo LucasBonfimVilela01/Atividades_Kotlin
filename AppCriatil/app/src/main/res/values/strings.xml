@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App Criatil</string>
+
+    <string name="Nome1">Pelúcia Ralsei</string>
+    <string name="preco1">R$99,99</string>
+
+    <string name="Nome2">UNO Braille edition</string>
+    <string name="preco2">R$24,99</string>
+
+    <string name="Nome3">Pelúcia Bluey</string>
+    <string name="preco3">R$79,99</string>
+
+    <string name="Nome4">Boneco Among Us</string>
+    <string name="preco4">R$59,99</string>
+</resources>
