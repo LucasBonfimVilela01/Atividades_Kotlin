@@ -111,6 +111,9 @@ fun ProdutoItem() {
         )
         {
             var text by remember { mutableStateOf("") }
+            var text2 by remember { mutableStateOf("") }
+            var text3 by remember { mutableStateOf("") }
+            var text4 by remember { mutableStateOf("") }
 
             OutlinedTextField(
                 modifier = Modifier
@@ -126,9 +129,9 @@ fun ProdutoItem() {
                 modifier = Modifier
                     .fillMaxWidth()
                     .background(Color.White),
-                value = text,
+                value = text2,
                 onValueChange = { newText ->
-                    text = newText
+                    text2 = newText
                 },
                 label = { Text("Telefone") }
             )
@@ -136,9 +139,9 @@ fun ProdutoItem() {
                 modifier = Modifier
                     .fillMaxWidth()
                     .background(Color.White),
-                value = text,
+                value = text3,
                 onValueChange = { newText ->
-                    text = newText
+                    text3 = newText
                 },
                 label = { Text("Curso") }
             )
@@ -146,9 +149,9 @@ fun ProdutoItem() {
                 modifier = Modifier
                     .fillMaxWidth()
                     .background(Color.White),
-                value = text,
+                value = text4,
                 onValueChange = { newText ->
-                    text = newText
+                    text4 = newText
                 },
                 label = { Text("Série") }
             )
