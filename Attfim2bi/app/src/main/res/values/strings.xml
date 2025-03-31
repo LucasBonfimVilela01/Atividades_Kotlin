@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Att-fim 2° bi</string>
+    <string name="nome1">Produto 1</string>
+    <string name="nome2">Produto 2</string>
+    <string name="nome3">Produto 3</string>
+    <string name="nome4">Produto 4</string>
+    <string name="nome5">Produto 5</string>
+    <string name="nome6">Produto 6</string>
+    <string name="nome7">Produto 7</string>
+    <string name="nome8">Produto 8</string>
+    <string name="nome9">Produto 9</string>
+    <string name="nome10">Produto 10</string>
+
+    <string name="preco1">R$10</string>
+    <string name="preco2">R$20</string>
+    <string name="preco3">R$30</string>
+    <string name="preco4">R$40</string>
+    <string name="preco5">R$50</string>
+    <string name="preco6">R$60</string>
+    <string name="preco7">R$70</string>
+    <string name="preco8">R$80</string>
+    <string name="preco9">R$90</string>
+    <string name="preco10">R$100</string>
+</resources>
